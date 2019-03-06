@@ -1,0 +1,27 @@
+{
+    "deflections": {
+        "AX": 150.0,
+        "CDD": 110.0,
+        "H1": 0.0,
+        "H2": 0.0,
+        "L1": 252.0,
+        "L2": 600.0
+    },
+    "gains": {
+        "AX": 1,
+        "CDD": 1,
+        "H1": 1,
+        "H2": 1,
+        "L1": 1,
+        "L2": 1
+    },
+    "spectrometer": {
+        "ElectronEnergy": 72.6512238295794,
+        "ExtractionLens": 12.74,
+        "HV": 4.5,
+        "IonCounterVoltage": 0.0,
+        "IonRepeller": -3.72,
+        "YSymmetry": -7.79,
+        "ZSymmetry": 11.01
+    }
+}
