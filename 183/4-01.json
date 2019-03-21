@@ -1,0 +1,112 @@
+{
+    "acquisition_software": "pychron py3/18.2",
+    "aliquot": 1,
+    "analysis_type": "unknown",
+    "analyst_name": "root",
+    "arar_mapping": {
+        "Ar36": "Ar36",
+        "Ar37": "Ar37",
+        "Ar38": "Ar38",
+        "Ar39": "Ar39",
+        "Ar40": "Ar40"
+    },
+    "collection_version": "1.0:2.0",
+    "comment": "",
+    "commit": "e0db4a31d6d2086e684cf6f42d0efcf2bcaae8c8",
+    "conditionals": null,
+    "data_reduction_software": "pychron py3/18.2",
+    "detectors": {
+        "AX": {
+            "deflection": 150.0,
+            "gain": 1
+        },
+        "CDD": {
+            "deflection": 130.0,
+            "gain": 1
+        },
+        "H1": {
+            "deflection": 0.0,
+            "gain": 1
+        },
+        "L1": {
+            "deflection": 252.0,
+            "gain": 1
+        },
+        "L2": {
+            "deflection": 600.0,
+            "gain": 1
+        }
+    },
+    "environmental": {
+        "lab_humiditys": [],
+        "lab_pneumatics": [],
+        "lab_temperatures": []
+    },
+    "experiment_queue_name": "IDGeneric_TF_1",
+    "experiment_type": "Ar/Ar",
+    "extraction": "argus_CO2_sample.py",
+    "grainsize": "",
+    "identifier": "1834",
+    "increment": null,
+    "instrument_name": "",
+    "intensity_scalar": 0.0,
+    "irradiation": "Can16",
+    "irradiation_level": "J",
+    "irradiation_position": 15,
+    "isotopes": {
+        "Ar36": {
+            "detector": "CDD",
+            "name": "Ar36",
+            "serial_id": "00000"
+        },
+        "Ar37": {
+            "detector": "L2",
+            "name": "Ar37",
+            "serial_id": "00000"
+        },
+        "Ar38": {
+            "detector": "L1",
+            "name": "Ar38",
+            "serial_id": "00000"
+        },
+        "Ar39": {
+            "detector": "AX",
+            "name": "Ar39",
+            "serial_id": "00000"
+        },
+        "Ar40": {
+            "detector": "H1",
+            "name": "Ar40",
+            "serial_id": "00000"
+        }
+    },
+    "laboratory": "",
+    "latitude": 0.0,
+    "lithology": "",
+    "lithology_class": "",
+    "lithology_group": "",
+    "lithology_type": "",
+    "longitude": 0.0,
+    "mass_spectrometer": "Argus",
+    "material": "Hornblende",
+    "measurement": "argus_sample.py",
+    "post_equilibration": "argus_pump_sample_to_turbo.py",
+    "post_measurement": "argus_pump_ms.py",
+    "principal_investigator": "Camacho, A",
+    "project": "Boothia",
+    "queue_conditionals_name": "",
+    "repository_identifier": "laboratory",
+    "rlocation": "",
+    "sample": "HBE3GR",
+    "source": {
+        "emission": 489.887,
+        "trap": 199.042
+    },
+    "spec_sha": "c7f57326450c43a7ecbd4a1055f857fc785fc5ec",
+    "timestamp": "2019-03-20T21:21:19.231430",
+    "tripped_conditional": null,
+    "unit": "",
+    "username": "root",
+    "uuid": "e879c6ea-840b-43c9-8613-d540eb077a13",
+    "whiff_result": null
+}
