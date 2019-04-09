@@ -1,0 +1,32 @@
+{
+    "AX": {
+        "error": 0.0,
+        "fit": "default",
+        "references": [],
+        "value": 1.0
+    },
+    "CDD": {
+        "error": 0.0,
+        "fit": "default",
+        "references": [],
+        "value": 1.02
+    },
+    "H1": {
+        "error": 0.0,
+        "fit": "default",
+        "references": [],
+        "value": 1.0
+    },
+    "L1": {
+        "error": 0.0,
+        "fit": "default",
+        "references": [],
+        "value": 1.0
+    },
+    "L2": {
+        "error": 0.0,
+        "fit": "default",
+        "references": [],
+        "value": 1.0
+    }
+}
